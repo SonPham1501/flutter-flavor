@@ -290,12 +290,13 @@
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
 				DEVELOPMENT_TEAM = J3GTU587V8;
 				ENABLE_BITCODE = NO;
+				FLUTTER_TARGET = "$(FLUTTER_APPLICATION_PATH)/lib/mains/main_development.dart";
 				INFOPLIST_FILE = Runner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.son.app.flutterflavor;
+				PRODUCT_BUNDLE_IDENTIFIER = com.son.app.flutterflavor.dev;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
@@ -419,12 +420,13 @@
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
 				DEVELOPMENT_TEAM = J3GTU587V8;
 				ENABLE_BITCODE = NO;
+				FLUTTER_TARGET = "$(FLUTTER_APPLICATION_PATH)/lib/mains/main_development.dart";
 				INFOPLIST_FILE = Runner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.son.app.flutterflavor;
+				PRODUCT_BUNDLE_IDENTIFIER = com.son.app.flutterflavor.dev;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -442,12 +444,13 @@
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
 				DEVELOPMENT_TEAM = J3GTU587V8;
 				ENABLE_BITCODE = NO;
+				FLUTTER_TARGET = "$(FLUTTER_APPLICATION_PATH)/lib/mains/main_development.dart";
 				INFOPLIST_FILE = Runner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.son.app.flutterflavor;
+				PRODUCT_BUNDLE_IDENTIFIER = com.son.app.flutterflavor.dev;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
@@ -519,12 +522,13 @@
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
 				DEVELOPMENT_TEAM = J3GTU587V8;
 				ENABLE_BITCODE = NO;
+				FLUTTER_TARGET = "$(FLUTTER_APPLICATION_PATH)/lib/mains/main_development.dart";
 				INFOPLIST_FILE = Runner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.son.app.flutterflavor;
+				PRODUCT_BUNDLE_IDENTIFIER = com.son.app.flutterflavor.dev;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -597,12 +601,13 @@
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
 				DEVELOPMENT_TEAM = J3GTU587V8;
 				ENABLE_BITCODE = NO;
+				FLUTTER_TARGET = "$(FLUTTER_APPLICATION_PATH)/lib/mains/main_production.dart";
 				INFOPLIST_FILE = Runner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.son.app.flutterflavor;
+				PRODUCT_BUNDLE_IDENTIFIER = com.son.app.flutterflavor.prod;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -675,12 +680,13 @@
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
 				DEVELOPMENT_TEAM = J3GTU587V8;
 				ENABLE_BITCODE = NO;
+				FLUTTER_TARGET = "$(FLUTTER_APPLICATION_PATH)/lib/mains/main_staging.dart";
 				INFOPLIST_FILE = Runner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.son.app.flutterflavor;
+				PRODUCT_BUNDLE_IDENTIFIER = com.son.app.flutterflavor.stg;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -750,12 +756,13 @@
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
 				DEVELOPMENT_TEAM = J3GTU587V8;
 				ENABLE_BITCODE = NO;
+				FLUTTER_TARGET = "$(FLUTTER_APPLICATION_PATH)/lib/mains/main_development.dart";
 				INFOPLIST_FILE = Runner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.son.app.flutterflavor;
+				PRODUCT_BUNDLE_IDENTIFIER = com.son.app.flutterflavor.dev;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
@@ -824,12 +831,13 @@
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
 				DEVELOPMENT_TEAM = J3GTU587V8;
 				ENABLE_BITCODE = NO;
+				FLUTTER_TARGET = "$(FLUTTER_APPLICATION_PATH)/lib/mains/main_production.dart";
 				INFOPLIST_FILE = Runner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.son.app.flutterflavor;
+				PRODUCT_BUNDLE_IDENTIFIER = com.son.app.flutterflavor.prod;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
@@ -898,12 +906,13 @@
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
 				DEVELOPMENT_TEAM = J3GTU587V8;
 				ENABLE_BITCODE = NO;
+				FLUTTER_TARGET = "$(FLUTTER_APPLICATION_PATH)/lib/mains/main_staging.dart";
 				INFOPLIST_FILE = Runner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.son.app.flutterflavor;
+				PRODUCT_BUNDLE_IDENTIFIER = com.son.app.flutterflavor.stg;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
@@ -970,12 +979,13 @@
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
 				DEVELOPMENT_TEAM = J3GTU587V8;
 				ENABLE_BITCODE = NO;
+				FLUTTER_TARGET = "$(FLUTTER_APPLICATION_PATH)/lib/mains/main_development.dart";
 				INFOPLIST_FILE = Runner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.son.app.flutterflavor;
+				PRODUCT_BUNDLE_IDENTIFIER = com.son.app.flutterflavor.dev;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
@@ -1042,12 +1052,13 @@
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
 				DEVELOPMENT_TEAM = J3GTU587V8;
 				ENABLE_BITCODE = NO;
+				FLUTTER_TARGET = "$(FLUTTER_APPLICATION_PATH)/lib/mains/main_production.dart";
 				INFOPLIST_FILE = Runner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.son.app.flutterflavor;
+				PRODUCT_BUNDLE_IDENTIFIER = com.son.app.flutterflavor.prod;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
@@ -1114,12 +1125,13 @@
 				CURRENT_PROJECT_VERSION = "$(FLUTTER_BUILD_NUMBER)";
 				DEVELOPMENT_TEAM = J3GTU587V8;
 				ENABLE_BITCODE = NO;
+				FLUTTER_TARGET = "$(FLUTTER_APPLICATION_PATH)/lib/mains/main_staging.dart";
 				INFOPLIST_FILE = Runner/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.son.app.flutterflavor;
+				PRODUCT_BUNDLE_IDENTIFIER = com.son.app.flutterflavor.stg;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Runner/Runner-Bridging-Header.h";
 				SWIFT_VERSION = 5.0;
